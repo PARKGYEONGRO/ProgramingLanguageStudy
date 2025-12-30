@@ -1,3 +1,2 @@
-# Study / 공부
-### 언어
-### Python / Html, CSS, JS
+# ProgramingLanguageStudy / 프로그래밍 언어 공부
+### Python / R / SAS / SPSS / JS
